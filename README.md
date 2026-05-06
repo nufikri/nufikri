@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nufikri
-- 👀 I’m interested in web development
-- 🌱 I’m currently the basic, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on anything; I'm an absolute beginer and I want to start learning
-- 📫 you can reach me at nufikri@gmail.com
+These days, you will mostly find me tending to my balcony garden, 
+getting lost in video games, 
+or going for a bicycle ride to clear my head.
 
 <!---
 nufikri/nufikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
