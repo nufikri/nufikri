@@ -1,6 +1,6 @@
 These days, you will mostly find me tending to my balcony garden, 
 getting lost in video games, 
-or going for a bicycle ride to clear my head.
+- or going for a bicycle ride to clear my head.
 
 <!---
 nufikri/nufikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
